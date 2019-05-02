@@ -1,0 +1,33 @@
+{
+    "name": "snack-review",
+    "version": "0.4.0",
+    "description": "Platform for reviewing snacks. Step 4",
+    "main": "index.html",
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brandonrisell/snack-review.git"
+    },
+    "keywords": [
+        "react"
+    ],
+    "author": "Brandon Risell (@BrandonRisell)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/brandonrisell/snack-review/issues"
+    },
+    "homepage": "https://github.com/brandonrisell/snack-review#readme",
+    "devDependencies": {
+        "@babel/core": "^7.4.3",
+        "@babel/preset-env": "^7.4.3",
+        "@babel/preset-react": "^7.0.0",
+        "babel-loader": "^8.0.5",
+        "parcel-bundler": "^1.12.3"
+    },
+    "dependencies": {
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6"
+    }
+}
