@@ -1,0 +1,22 @@
+{
+  "name": "snack-review",
+  "version": "0.1.0",
+  "description": "Platform for reviewing snacks",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonrisell/snack-review.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Brandon Risell (@BrandonRisell)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonrisell/snack-review/issues"
+  },
+  "homepage": "https://github.com/brandonrisell/snack-review#readme"
+}
